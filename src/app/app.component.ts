@@ -7,6 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Angular ag-grid';
+  sg='My Name';
 
   columnDefs = [
         { headerName: 'Employee Name', field: 'name', sortable:true, filter:true, checkboxSelection: true },
