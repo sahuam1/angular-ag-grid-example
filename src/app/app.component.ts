@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'Angr ag-id';
+  title = 'ular ag-grid';
   sg='My Name';
 
   columnDefs = [
